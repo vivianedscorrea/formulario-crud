@@ -3,6 +3,10 @@
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
+.ml-5 {
+    margin-left: 5px;
+}
+
 .mt-20 {
     margin-top: 20px;
 }
@@ -17,8 +21,4 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 .full-width {
     width: 100%;
-}
-
-.ml-5 {
-    margin-left: 5px;
 }
